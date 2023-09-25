@@ -10,6 +10,10 @@ namespace LeanCsharp
     {
         static void Main(string[] args)
         {
+            //输出
+            Console.WriteLine("Hello world!");
+            //摁任意键退出程序
+            Console.ReadKey();
         }
     }
 }

@@ -1,0 +1,15 @@
+D:\git file\LeanCsharp\Lesson2\obj\Debug\net6.0\Lesson2.csproj.AssemblyReference.cache
+D:\git file\LeanCsharp\Lesson2\obj\Debug\net6.0\Lesson2.GeneratedMSBuildEditorConfig.editorconfig
+D:\git file\LeanCsharp\Lesson2\obj\Debug\net6.0\Lesson2.AssemblyInfoInputs.cache
+D:\git file\LeanCsharp\Lesson2\obj\Debug\net6.0\Lesson2.AssemblyInfo.cs
+D:\git file\LeanCsharp\Lesson2\obj\Debug\net6.0\Lesson2.csproj.CoreCompileInputs.cache
+D:\git file\LeanCsharp\Lesson2\bin\Debug\net6.0\Lesson2.exe
+D:\git file\LeanCsharp\Lesson2\bin\Debug\net6.0\Lesson2.deps.json
+D:\git file\LeanCsharp\Lesson2\bin\Debug\net6.0\Lesson2.runtimeconfig.json
+D:\git file\LeanCsharp\Lesson2\bin\Debug\net6.0\Lesson2.dll
+D:\git file\LeanCsharp\Lesson2\bin\Debug\net6.0\Lesson2.pdb
+D:\git file\LeanCsharp\Lesson2\obj\Debug\net6.0\Lesson2.dll
+D:\git file\LeanCsharp\Lesson2\obj\Debug\net6.0\refint\Lesson2.dll
+D:\git file\LeanCsharp\Lesson2\obj\Debug\net6.0\Lesson2.pdb
+D:\git file\LeanCsharp\Lesson2\obj\Debug\net6.0\Lesson2.genruntimeconfig.cache
+D:\git file\LeanCsharp\Lesson2\obj\Debug\net6.0\ref\Lesson2.dll
