@@ -59,6 +59,13 @@
             //可以通过这个小语法改变保留的小数位数；
             Console.WriteLine("{0:0.00}",c);
 
+            //两道计算题
+            Console.WriteLine("\n\n\n\n\n\n\n两道计算题：");
+            //根据天数计算几周零几天
+            int day = Convert.ToInt32(Console.ReadLine());
+            int week = day / 7;
+            double day1 = day % 7;
+            Console.WriteLine("{0}天一共有{1}周零{2}天",day,week,day1);
 
         }
     }

@@ -1,0 +1,15 @@
+D:\git file\LeanCsharp\lesson4\bin\Debug\net6.0\lesson4.exe
+D:\git file\LeanCsharp\lesson4\bin\Debug\net6.0\lesson4.deps.json
+D:\git file\LeanCsharp\lesson4\bin\Debug\net6.0\lesson4.runtimeconfig.json
+D:\git file\LeanCsharp\lesson4\bin\Debug\net6.0\lesson4.dll
+D:\git file\LeanCsharp\lesson4\bin\Debug\net6.0\lesson4.pdb
+D:\git file\LeanCsharp\lesson4\obj\Debug\net6.0\lesson4.csproj.AssemblyReference.cache
+D:\git file\LeanCsharp\lesson4\obj\Debug\net6.0\lesson4.GeneratedMSBuildEditorConfig.editorconfig
+D:\git file\LeanCsharp\lesson4\obj\Debug\net6.0\lesson4.AssemblyInfoInputs.cache
+D:\git file\LeanCsharp\lesson4\obj\Debug\net6.0\lesson4.AssemblyInfo.cs
+D:\git file\LeanCsharp\lesson4\obj\Debug\net6.0\lesson4.csproj.CoreCompileInputs.cache
+D:\git file\LeanCsharp\lesson4\obj\Debug\net6.0\lesson4.dll
+D:\git file\LeanCsharp\lesson4\obj\Debug\net6.0\refint\lesson4.dll
+D:\git file\LeanCsharp\lesson4\obj\Debug\net6.0\lesson4.pdb
+D:\git file\LeanCsharp\lesson4\obj\Debug\net6.0\lesson4.genruntimeconfig.cache
+D:\git file\LeanCsharp\lesson4\obj\Debug\net6.0\ref\lesson4.dll
