@@ -1,0 +1,15 @@
+D:\学习\C# learning\sakura0813\LeanCsharp\lesson6\bin\Debug\net6.0\lesson6.exe
+D:\学习\C# learning\sakura0813\LeanCsharp\lesson6\bin\Debug\net6.0\lesson6.deps.json
+D:\学习\C# learning\sakura0813\LeanCsharp\lesson6\bin\Debug\net6.0\lesson6.runtimeconfig.json
+D:\学习\C# learning\sakura0813\LeanCsharp\lesson6\bin\Debug\net6.0\lesson6.dll
+D:\学习\C# learning\sakura0813\LeanCsharp\lesson6\bin\Debug\net6.0\lesson6.pdb
+D:\学习\C# learning\sakura0813\LeanCsharp\lesson6\obj\Debug\net6.0\lesson6.csproj.AssemblyReference.cache
+D:\学习\C# learning\sakura0813\LeanCsharp\lesson6\obj\Debug\net6.0\lesson6.GeneratedMSBuildEditorConfig.editorconfig
+D:\学习\C# learning\sakura0813\LeanCsharp\lesson6\obj\Debug\net6.0\lesson6.AssemblyInfoInputs.cache
+D:\学习\C# learning\sakura0813\LeanCsharp\lesson6\obj\Debug\net6.0\lesson6.AssemblyInfo.cs
+D:\学习\C# learning\sakura0813\LeanCsharp\lesson6\obj\Debug\net6.0\lesson6.csproj.CoreCompileInputs.cache
+D:\学习\C# learning\sakura0813\LeanCsharp\lesson6\obj\Debug\net6.0\lesson6.dll
+D:\学习\C# learning\sakura0813\LeanCsharp\lesson6\obj\Debug\net6.0\refint\lesson6.dll
+D:\学习\C# learning\sakura0813\LeanCsharp\lesson6\obj\Debug\net6.0\lesson6.pdb
+D:\学习\C# learning\sakura0813\LeanCsharp\lesson6\obj\Debug\net6.0\lesson6.genruntimeconfig.cache
+D:\学习\C# learning\sakura0813\LeanCsharp\lesson6\obj\Debug\net6.0\ref\lesson6.dll
