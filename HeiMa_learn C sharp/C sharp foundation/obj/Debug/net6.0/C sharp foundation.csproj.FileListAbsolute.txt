@@ -1,0 +1,14 @@
+D:\git file\HeiMa_learn C sharp\C sharp foundation\bin\Debug\net6.0\C sharp foundation.exe
+D:\git file\HeiMa_learn C sharp\C sharp foundation\bin\Debug\net6.0\C sharp foundation.deps.json
+D:\git file\HeiMa_learn C sharp\C sharp foundation\bin\Debug\net6.0\C sharp foundation.runtimeconfig.json
+D:\git file\HeiMa_learn C sharp\C sharp foundation\bin\Debug\net6.0\C sharp foundation.dll
+D:\git file\HeiMa_learn C sharp\C sharp foundation\bin\Debug\net6.0\C sharp foundation.pdb
+D:\git file\HeiMa_learn C sharp\C sharp foundation\obj\Debug\net6.0\C sharp foundation.GeneratedMSBuildEditorConfig.editorconfig
+D:\git file\HeiMa_learn C sharp\C sharp foundation\obj\Debug\net6.0\C sharp foundation.AssemblyInfoInputs.cache
+D:\git file\HeiMa_learn C sharp\C sharp foundation\obj\Debug\net6.0\C sharp foundation.AssemblyInfo.cs
+D:\git file\HeiMa_learn C sharp\C sharp foundation\obj\Debug\net6.0\C sharp foundation.csproj.CoreCompileInputs.cache
+D:\git file\HeiMa_learn C sharp\C sharp foundation\obj\Debug\net6.0\C sharp foundation.dll
+D:\git file\HeiMa_learn C sharp\C sharp foundation\obj\Debug\net6.0\refint\C sharp foundation.dll
+D:\git file\HeiMa_learn C sharp\C sharp foundation\obj\Debug\net6.0\C sharp foundation.pdb
+D:\git file\HeiMa_learn C sharp\C sharp foundation\obj\Debug\net6.0\C sharp foundation.genruntimeconfig.cache
+D:\git file\HeiMa_learn C sharp\C sharp foundation\obj\Debug\net6.0\ref\C sharp foundation.dll
